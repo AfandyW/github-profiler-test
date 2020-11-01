@@ -9,4 +9,4 @@ solution: use nodeJS to connect to github api get profile into and print out to 
 * [x] TODO: Parse the data
 
 ## Tutorial by HACKTIV8
-link : https://www.youtube.com/watch?v=Q41Tgy-W_7w&t=2330s
+link : https://www.youtube.com/watch?v=Q41Tgy-W_7w&t
