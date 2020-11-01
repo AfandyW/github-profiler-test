@@ -7,4 +7,3 @@ solution: use nodeJS to connect to github api get profile into and print out to 
 * [x] connect to github API
 * [x] Read the data
 * [x] TODO: Parse the data
-* [x] TODO: Print the data out
